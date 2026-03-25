@@ -80,10 +80,10 @@ docker-compose down
 | `PUT`    | `/api/settings`              | Обновить настройки           |
 | `GET`    | `/api/health`                | Проверка состояния           |
 
-## Демонстрация
+## 🎥 Демонстрация
 
-Для демонстрации работы приложения:
+![GIF демонстрации](demo.gif)
 
-1. Запустите проект командой `docker-compose up -d --build`
-2. Откройте http://localhost:3000 в браузере
-3. Запишите экран (например, через OBS Studio или встроенную запись экрана Windows: Win+G)
+## 🧑‍💻 Автор
+
+[Dowilt](https://github.com/Dowilt)
